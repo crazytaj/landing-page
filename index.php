@@ -35,16 +35,13 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item active">
-                                <a class="nav-link" href="#">Key Benefits</a>
+                                <a class="nav-link" href="#features">Key Benefits</a>
                             </li>
                             <li class="nav-item active">
-                                <a class="nav-link" href="#">Testimonials</a>
+                                <a class="nav-link" href="#features">Features</a>
                             </li>
                             <li class="nav-item active">
-                                <a class="nav-link" href="#">Features</a>
-                            </li>
-                            <li class="nav-item active">
-                                <a class="nav-link" href="#">Pricing</a>
+                                <a class="nav-link" href="#pricing">Pricing</a>
                             </li>
                         </ul>
                         <a class="custom-button" href="#signup">SIGN UP</a>
@@ -64,7 +61,7 @@
             </a>
             <p class="extra-filler"></p>
         </div>
-        <h1 class="description-p">Product Features</h1><br>
+        <h1 class="description-p" id="features">Product Features</h1><br>
         <p class="description-p benefits-p">Some of our features define our company, and help separate us from the competition.</p><br>
         <div class="list-holder">
             <div class="benefits-list-left">
@@ -100,7 +97,7 @@
                 </ul>
             </div>
         </div>
-        <div class="card-group" id="lower">
+        <div class="card-group" id="pricing">
             <div class="card-holder">
                 <div class="card">
                     <div class="card-body">
@@ -173,7 +170,7 @@
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="footer-signup">
+                        <div class="footer-signup" id="signup">
                             <h6 class="footer-h6">Sign Up</h6><br class="footer-br">
                             <p class="footer-p">Enter your email to sign up for our newsletter. It provides updates and additional info.</p>
                             <form method="POST">
