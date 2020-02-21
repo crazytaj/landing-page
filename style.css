@@ -18,6 +18,9 @@ body {
     margin: auto;
     text-align: center;
 }
+.fix-padding {
+    width: 100%;
+}
 .list-holder {
     width: 45%;
     margin: auto;

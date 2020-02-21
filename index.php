@@ -54,10 +54,10 @@
         </div>
         <div class="fake-tron">
             <div class="custom-header">
-                <p>This is your Primary Heading.</p>
+                <p>Content Managemnet, Done Right</p>
             </div>
             <div class="custom-subscript">
-                <p>Add some more descriptive content here to describe your product or service in a more detailed way. This could also be an explanation of the details of your offer if you are running a promotion.</p>
+                <p>We provide a simple, easy to use content management system to schools, in hope of providing a more streamlined experience for faculty, and the student body.</p>
             </div>
             <a class="downbutton" href="#lower">
                 <img src="/arrow.gif">
@@ -65,37 +65,37 @@
             <p class="extra-filler"></p>
         </div>
         <h1 class="description-p">Product Features</h1><br>
-        <p class="description-p benefits-p">We are a simple content management system, aimed at making the everyday life of school faculty and students smoother and simpler through clean, easy to use software.</p><br>
+        <p class="description-p benefits-p">Some of our features define our company, and help separate us from the competition.</p><br>
         <div class="list-holder">
             <div class="benefits-list-left">
                 <ul>
                     <li class="benefits-item">
-                        <h2>Key Benefits</h2>
-                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                        <h2>Manage Data</h2>
+                        <p class="benefits-p">Our fast loading times and large databases will allow faculty to navigate the gradebook and student information with ease.</p>
                     </li>
                     <li class="benefits-item">
-                        <h2>Key Benefits</h2>
-                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                        <h2>Teacher Interface</h2>
+                        <p class="benefits-p">The teacher interface is designed to be sleek and simple so that a new teacher only has to spend a few minutes learning.</p>
                     </li>
                     <li class="benefits-item">
-                        <h2>Key Benefits</h2>
-                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                        <h2>Student Interface</h2>
+                        <p class="benefits-p">The in depth student interface will keep track of their schedule, and their homework each day, as well as providing information like lunch.</p>
                     </li>
                 </ul>
             </div>
             <div class="benefits-list-right">
                 <ul>
                     <li class="benefits-item">
-                        <h2>Key Benefits</h2>
-                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                        <h2>Data Merging</h2>
+                        <p class="benefits-p">Because we use the industry standard for data, schools should have less trouble transfering their data to our system.</p>
                     </li>
                     <li class="benefits-item">
-                        <h2>Key Benefits</h2>
-                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                        <h2>Modularity</h2>
+                        <p class="benefits-p">Our customizable interface will allow the IT department at any school to change up the app to fit the schools needs.</p>
                     </li>
                     <li class="benefits-item">
-                        <h2>Key Benefits</h2>
-                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                        <h2>Mobile Optimized</h2>
+                        <p class="benefits-p">Any student or faculty member can access their interfaces from their phones thanks to our mobile optimization.</p>
                     </li>
                 </ul>
             </div>
@@ -175,7 +175,7 @@
                     <div class="col-lg-3">
                         <div class="footer-signup">
                             <h6 class="footer-h6">Sign Up</h6><br class="footer-br">
-                            <p class="footer-p">Please sign up, we need people to look at stuff and give us money really bad.</p>
+                            <p class="footer-p">Enter your email to sign up for our newsletter. It provides updates and additional info.</p>
                             <form method="POST">
                                 <input class="footer-email" type="text" name="footer-em" placeholder="Enter your email">
                                 <input type="submit" style="display: none" />
