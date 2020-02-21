@@ -63,7 +63,42 @@
             </a>
             <p class="extra-filler"></p>
         </div>
-
+        <h1 class="description-p">Product Features</h1><br>
+        <p class="description-p benefits-p">We are a simple content management system, aimed at making the everyday life of school faculty and students smoother and simpler through clean, easy to use software.</p><br>
+        <div class="list-holder">
+            <div class="benefits-list-left">
+                <ul>
+                    <li class="benefits-item">
+                        <h2>Key Benefits</h2>
+                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                    </li>
+                    <li class="benefits-item">
+                        <h2>Key Benefits</h2>
+                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                    </li>
+                    <li class="benefits-item">
+                        <h2>Key Benefits</h2>
+                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                    </li>
+                </ul>
+            </div>
+            <div class="benefits-list-right">
+                <ul>
+                    <li class="benefits-item">
+                        <h2>Key Benefits</h2>
+                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                    </li>
+                    <li class="benefits-item">
+                        <h2>Key Benefits</h2>
+                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                    </li>
+                    <li class="benefits-item">
+                        <h2>Key Benefits</h2>
+                        <p class="benefits-p">Explain the features and what it acompolishes. What does your company offer that will improve or solve a problem?</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
         <div class="card-group" id="lower">
             <div class="card-holder">
                 <div class="card">

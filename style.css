@@ -13,6 +13,30 @@
 body {
     font-family: Comfortaa !important;
 }
+.description-p {
+    width: 350px;
+    margin: auto;
+    text-align: center;
+}
+.list-holder {
+    width: 45%;
+    margin: auto;
+}
+.benefits-p {
+    color: #919396;
+}
+.benefits-list-left {
+    width: 360px;
+    float: left;
+}
+.benefits-list-right {
+    width: 360px;
+    float: right;
+}
+.benefits-item {
+    list-style-image: url("https://i.imgur.com/URmMIBz.png");
+    padding-left: 10px;
+}
 .custom-button {
     color:black;
     text-decoration: none;
