@@ -1,7 +1,7 @@
 <?php
     session_start();
-    if (isset($_POST['holygrail'])) {
-        $person = $_POST['footer-em'].',';
+    if (isset($_GET['footer-em'])) {
+        $person = $_GET['footer-em'].',';
         file_put_contents('emails.txt', $person, FILE_APPEND);
     }
 ?>
@@ -140,7 +140,7 @@
                         <div class="footer-signup">
                             <h6 class="footer-h6">Sign Up</h6><br class="footer-br">
                             <p class="footer-p">Please sign up, we need people to look at stuff and give us money really bad.</p>
-                            <form method="POST" name="holygrail">
+                            <form method="get">
                                 <input class="footer-email" type="text" name="footer-em" placeholder="Enter your email">
                             </form>
                         </div>
