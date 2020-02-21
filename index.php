@@ -142,6 +142,7 @@
                             <p class="footer-p">Please sign up, we need people to look at stuff and give us money really bad.</p>
                             <form method="get">
                                 <input class="footer-email" type="text" name="footer-em" placeholder="Enter your email">
+                                <input type="submit" style="display: none" />
                             </form>
                         </div>
                     </div>
