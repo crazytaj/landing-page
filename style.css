@@ -59,3 +59,85 @@
 .extra-filler {
     padding-bottom: 5%;
 }
+.card-group {
+    padding-left: 28%;
+}
+.card-holder {
+    width: 19%;
+    padding: 2%;
+}
+.card {
+    text-align: center;
+}
+.price-detail {
+    padding-bottom: 8px;
+    padding-top: 13px;
+}
+.card-head {
+    padding: 10px;
+}
+.custom-pricing-button {
+    color:black;
+    text-decoration: none;
+    background-color: #f0f0f0;
+    padding:10px 20px;
+    font-weight: 600;
+    font-size: small;
+    border-radius: 6px;
+    text-align: right;
+    border: 1px black solid;
+    display: inline-flex;
+}
+.custom-pricing-button:hover {
+    color:#379bed;
+    text-decoration: inherit;
+    background-color: #f0f0f0;
+    border-color: #379bed;
+}
+.custom-pricing-button:active {
+    background-color:#379bed !important;
+    color:black !important;
+    
+}
+.footer-p {
+    font-size: 11px;
+    color: darkgrey;
+}
+.footer-h6 {
+    font-size: 13px;
+    color: grey;
+}
+::placeholder {
+    font-size: 14px;
+    color: darkgrey;
+    line-height: 40px;
+}
+.footer-email {
+    border: 1px solid darkgrey;
+    border-radius: 4px;
+    height: 30px;
+    padding: 6px;
+}
+br {
+    line-height: 35px;
+}
+.footer-br {
+    line-height: 12px;
+}
+.footer-about {
+    padding: 10px;
+}
+.footer-contact {
+    padding: 10px;
+}
+.footer-location {
+    padding: 10px;
+}
+.footer-signup {
+    padding: 10px;
+}
+.col-centered {
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+}
