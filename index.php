@@ -51,7 +51,7 @@
         </div>
         <div class="fake-tron">
             <div class="custom-header">
-                <p>Content Managemnet, Done Right</p>
+                <p>Content Management, Done Right</p>
             </div>
             <div class="custom-subscript">
                 <p>We provide a simple, easy to use content management system to schools, in hope of providing a more streamlined experience for faculty, and the student body.</p>
