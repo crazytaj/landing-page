@@ -56,7 +56,7 @@
             <div class="custom-subscript">
                 <p>We provide a simple, easy to use content management system to schools, in hope of providing a more streamlined experience for faculty, and the student body.</p>
             </div>
-            <a class="downbutton" href="#lower">
+            <a class="downbutton" href="#signup">
                 <img src="/arrow.gif">
             </a>
             <p class="extra-filler"></p>
