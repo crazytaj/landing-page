@@ -22,18 +22,16 @@ body {
     width: 100%;
 }
 .list-holder {
-    width: 45%;
+    width: 55%;
     margin: auto;
 }
 .benefits-p {
     color: #919396;
 }
 .benefits-list-left {
-    width: 360px;
     float: left;
 }
 .benefits-list-right {
-    width: 360px;
     float: right;
 }
 .benefits-item {
